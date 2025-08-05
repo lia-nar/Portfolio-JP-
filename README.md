@@ -1,4 +1,4 @@
-# -Portfolio
+# Portfolio
 # System Engineer
 
 バックエンドエンジニアとして、決済機能開発・システム保守・教材リファクタリングの経験があります。  
