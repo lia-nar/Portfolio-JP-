@@ -36,4 +36,4 @@ Java / Spring Boot を中心に、設計・実装・保守まで一貫して対�
 
 ## 📫 連絡先
 - GitHub: [https://github.com/lia-nar](https://github.com/lia-nar)
-- Linkedin: [[https://qiita.com/lia-nar](https://qiita.com/lia-nar)](https://www.linkedin.com/in/narumi-takaki-profile/)
+- Linkedin: [[https://www.linkedin.com/in/narumi-takaki-profile/](https://www.linkedin.com/in/narumi-takaki-profile/)]
